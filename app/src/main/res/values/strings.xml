@@ -1,0 +1,154 @@
+<resources>
+    <string name="app_name">MyRecipes</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_resep_minuman">Resep Minuman</string>
+
+    <string name="nasigoreng">
+        Bahan - Bahan : \n
+- 500 gr nasi putih yang dingin \n
+- 2 butir telur \n
+- 6 buah udang kecil yang sudah dikupas kulitnya \n
+- 1 potong cumi sedang yang sudah dibuang tinta, tulang, dan kulit arinya lalu potong bulat \n
+- 1 batang daun bawang yang dipotong bulat \n
+- 1 bungkus Royco Bumbu Komplit Nasi Goreng \n
+- 2 sdm minyak goreng \n
+- 1 sdt margarin \n
+
+Cara Memasak : \n
+- Panaskan minyak yang telah dicampur dengan margarin lalu masukkan udang dan cumi, masak hingga warnanya berubah lalu tambahkan telur dan daun bawang, masak hingga matang. \n
+- Setelah masakan sudah cukup matang, tambahkan nasi putih dan Royco bumbu nasi goreng, aduk hingga masakan tercampur dengan baik lalu angkat. \n
+- Setelah nasi goreng matang, Anda bisa menyajikannya di piring saji dan di tambah dengan bahan pelengkap lainnya sesuai selera seperti saus sambal, acar, kerupuk, bawang goreng, dan lainnya.
+    </string>
+
+    <string name="mie">
+        Bahan - Bahan : \n
+- 1 bungkus (2 potong) mie telur kering, rebus hingga matang lalu tiriskan dan tambahkan 1 sendok makan minyak goreng, aduk rata \n
+- 5 butir kemiri sangrai \n
+- 4 siung bawang putih \n
+- 2 sendok makan Kecap Bango Manis Pedas Gurih \n
+- 1/4 sendok teh lada putih bubuk \n
+- 1/4 sendok teh garam \n
+- 1 sendok teh gula pasir \n
+- 5 butir bakso sapi, potong \n
+- 100 gram udang pancet atau udang galah kupas \n
+- 200 gram kol, potong \n
+- 200 gram sawi hijau / caisim, potong-potong \n
+- 2 tangkai daun bawang, potong bulat 1 cm \n
+- 1 tangkai daun seledri, potong kasar \n
+- 1 bungkus Royco sapi \n
+- 2 butir telur ayam, kocok lepas \n
+- 5 sendok makan minyak goreng \n
+
+Cara Memasak : \n
+Tumis bumbu halus hingga harum dan matang betul, kemudian masukkan bakso, udang, tumis hingga berubah warna lalu tambahkan telur. Setelah telur matang, masukkan sayuran, Royko, garam, dan gula. \n
+Tambahkan mie dan kecap. Aduk hingga bumbu merata dengan mie.
+    </string>
+
+    <string name="sate">
+        Bahan - Bahan : \n
+- Fillet ayam 250 g, dipotong dadu, kemudian anda tusuk dengan tusukan sate \n
+- Jeruk nipis 1 buah yang telah iris \n
+- Bawang merah 3 butir,diiris tipis \n
+- Kecap manis 5 sdm \n
+- Nasi putih atau bisa diganti lontong secukupnya \n
+
+Bumbu Kacang Sate Ayam Madura : \n
+- Bawang merah 3 butir \n
+- Bawang putih 4 butir \n
+- Kacang tanah 100 g, digoreng \n
+- Kemiri 2 butir \n
+- Garam secukupnya \n
+- Air kaldu 150 ml \n
+- Minyak goreng 2 sdm \n
+
+Sambal Bawang Sate Ayam Madura : \n
+- Bawang putih 4 siung \n
+- Cabe merah kecil 10 buah \n
+- Garam secukupnya \n
+- Minyak goreng secukupnya \n
+
+Cara Membuat dan memasak Sate Ayam Madura : \n
+- Pertama Untuk Pembuatan Bumbu Kacang: Anda campur bahan seperti bawang putih, bawang merah, kacang tanah, garam, dan juga kemiri, kemudian anda haluskan. Lalu panaskan minyak, kemudian bahan tadi ditumis hingga tercium bau harum, masukkan air kaldu dan selanjutnya masak sampai mengental lalu angkat. \n
+- Kedua Anda campurkan 2 sendok makan bumbu kacang dengan ditambah 2 sendok makan kecap manis, lalu celupkan sate, kemudian anda bakar hingga setengah matang. Angkat lalu gulingkan lagi dalam bumbu, terus anda bakar lagi hingga matang, angkat. \n
+- Untuk Sambal bawang: Anda lakukan adalah panaskan minyak, kemudian tumis bawang putih sampai setengah matang lalu angkat. Selanjutnya anda campur bawang putih ditambah juga cabe merah kecil, dan garam, haluskan.
+    </string>
+
+    <string name="rendang">
+        Bahan Rendang Daging : \n
+- Daging sapi lulur 500 gram, potong melebar kurang lebih 12 bagian \n
+- Daun kunyit 2 lembar \n
+- Daun jeruk 2 lembar \n
+- Serai 2 batang, memarkan \n
+- Pekak 1 buah \n
+- Kelapa parut sangrai 2 sendok makan \n
+- Santan 1000-1500 ml dari 2 butir kelapa \n
+- Minyak goreng 2 sendok makan \n
+
+Resep Bumbu Halus Rendang Daging : \n
+- Bawang merah 10 butir \n
+- Bawang putih 6 siung \n
+- Cabai merah 150 gram \n
+- Cabai rawit sesuai selera \n
+- Kemiri 5 butir \n
+- Jinten 1/2 sendok teh \n
+- Ketumbar 1 sendok teh \n
+- Kunyit 1/2 cm \n
+- Jahe 1 cm \n
+- Garam secukupnya \n
+
+Cara Membuat Rendang Daging : \n
+- Panaskan minyak, tumis bumbu halus, daun kunyit, daun jeruk, serai dan pekak hingga harum. \n
+- Masukkan daging, aduk hingga berubah warna. \n
+- Tuang santan dan tambahkan kelapa parut sangrai, masak di atas api sedang sambil diaduk perlahan hingga mendidih. \n
+- Kecilkan api, masak hingga daging matang, berminyak dan kecoklatan. \n
+- Angkan dan sajikan.
+    </string>
+
+    <string name="esbuah">
+        Bahan-bahan yang digunakan : \n
+- Buah nanas sebanyak 500 gr \n
+- Buah pepaya sebanyak 500 gr \n
+- Buah pir sebanyak 500 gr \n
+- Buah mangga sebanyak 500 gr \n
+- Buah apel sebanyak 500 gr \n
+- Kelapa muda sebanyak 500 gr \n
+- Buah naga sebanyak 500 gr \n
+- Kolang kaling sebanyak 300 gr \n
+- Gula pasir sebanyak 250 gr \n
+- Santan encer sebanyak 500 ml \n
+- Air kelapa muda sebanyak 1 ltr \n
+- Agar-agar sebanyak 1 bungkus \n
+- Daun pandan sebanyak 2 helai \n
+- Fantan rasa strawbery secukupnya \n
+- Sirup coco pandan sesukupnya \n
+- Vanili secukupnya \n
+- Susu kental manis secukupnya \n
+- Es batu \n
+
+Cara mudah membuatnya : \n
+- Membuat agar-agar : Sediakan panci kecil masukan air sebanyak empat gelas, agar-agar bubuk, aduk rata. Tambahkan gula sebanyak sepuluh sendok makan lalu masak hingga matang dan mendidih. Angkat agar dan tuangkan ke cetakan, dinginkan \n
+- Ambil kolang kaling dan belah menjadi dua bagian kemudian cuci hingga bersih, masak kolang kaling hingga matang dan mendidih serta teksturnya jadi empuk. Angkat dan tirskan \n
+- Sediakan kembali panci tetapi yang berukuran besar, masukan bahan santan, air kelapa, daun pandan, gula, vanili, rebus semua bahan tersebut hingga menjadi satu, sambil di aduk-aduk bahan hingga matang dan mendidih. \n
+- Sediakan mangkuk dan masukan potongan buah, parutan kelapa, potongan agar-agar, es batu, kolang-kaling lalu tuangkan sirup coco pandan, serta kuah yang telah di rebus.
+- Es buah siap untuk disajikan
+    </string>
+
+    <string name="bajigur">
+        Bahan - Bahan : \n
+- Kopi hitam 2 sdm \n
+- Santan kelapa kental 1 L \n
+- Gula jawa merah 100 g ( iris halus ) \n
+- Gula pasir 2 sdm \n
+- Garam halus 1/2 sdt \n
+- Daun pandan 2 lembar (tali membentuk sampul ) \n
+
+Cara Membuat Bajigur Hangat Enak : \n
+- Rebuslah air santan kental didalam panci yang sudah disiapkan, kemudian aduk-aduk hingga mendidih \n
+- Masukan gula jawa merah kedalam rebusan santan kemudian kopi hitam dan gula pasirputih, aduk aduk terus, gunakan api kecil untuk membuatnya \n
+- Diamkan hingga campuran santan dan bahan lain benar-benar mendidih dan matang, sambil terus di aduk-aduk agar tidak menempel ke pinggirnya \n
+- Mulai masukan daun pengharum, yaitu daun pandan kedalam adonan yang sudah mendidih dan tambahan garam halus untuk penggurih rasa. Tunggu sampai tercium bau harum \n
+- Saringlah bajigur bila sudah diangkat agar tidak terlalu keruh oleh serat gula merah \n
+- Bajigur siap disajikan
+    </string>
+
+</resources>
